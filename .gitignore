@@ -1,0 +1,8 @@
+# Ignore everything. The directories to sync should be set explicitly
+*/
+
+# Allow specific directories
+!nvim/
+!nvim/**
+!tmux/
+!tmux/**
